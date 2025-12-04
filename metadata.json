@@ -1,0 +1,8 @@
+{
+  "name": "Copy of  DearX - Speak & Improve 1",
+  "description": "A social English learning platform connecting users for voice conversations with gamified rewards and grammar tips.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
